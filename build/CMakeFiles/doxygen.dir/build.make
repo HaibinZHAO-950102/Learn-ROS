@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/haibin/Desktop/软件/Learn-ROS/src
+CMAKE_SOURCE_DIR = /home/haibin/Desktop/Software/Learn-ROS/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/haibin/Desktop/软件/Learn-ROS/build
+CMAKE_BINARY_DIR = /home/haibin/Desktop/Software/Learn-ROS/build
 
 # Utility rule file for doxygen.
 
@@ -67,6 +67,6 @@ CMakeFiles/doxygen.dir/clean:
 .PHONY : CMakeFiles/doxygen.dir/clean
 
 CMakeFiles/doxygen.dir/depend:
-	cd /home/haibin/Desktop/软件/Learn-ROS/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/haibin/Desktop/软件/Learn-ROS/src /home/haibin/Desktop/软件/Learn-ROS/src /home/haibin/Desktop/软件/Learn-ROS/build /home/haibin/Desktop/软件/Learn-ROS/build /home/haibin/Desktop/软件/Learn-ROS/build/CMakeFiles/doxygen.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/haibin/Desktop/Software/Learn-ROS/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/haibin/Desktop/Software/Learn-ROS/src /home/haibin/Desktop/Software/Learn-ROS/src /home/haibin/Desktop/Software/Learn-ROS/build /home/haibin/Desktop/Software/Learn-ROS/build /home/haibin/Desktop/Software/Learn-ROS/build/CMakeFiles/doxygen.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/doxygen.dir/depend
 

@@ -7,4 +7,5 @@
 # new environment variables
 
 # modified environment variables
-export PWD='/home/haibin/Desktop/软件/Learn-ROS/build'
+export PWD='/home/haibin/Desktop/Software/Learn-ROS/build'
+export ROS_PACKAGE_PATH='/home/haibin/Desktop/Software/Learn-ROS/src:/opt/ros/melodic/share'

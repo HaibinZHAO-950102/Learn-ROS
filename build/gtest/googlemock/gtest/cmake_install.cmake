@@ -2,7 +2,7 @@
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/haibin/Desktop/软件/Learn-ROS/install")
+  set(CMAKE_INSTALL_PREFIX "/home/haibin/Desktop/Software/Learn-ROS/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

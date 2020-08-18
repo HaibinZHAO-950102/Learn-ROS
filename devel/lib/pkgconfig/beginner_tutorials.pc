@@ -1,8 +1,8 @@
-prefix=/home/haibin/Desktop/软件/Learn-ROS/devel
+prefix=/home/haibin/Desktop/Software/Learn-ROS/devel
 
 Name: beginner_tutorials
 Description: Description of beginner_tutorials
 Version: 0.0.0
-Cflags: 
+Cflags: -I/home/haibin/Desktop/Software/Learn-ROS/devel/include
 Libs: -L${prefix}/lib 
-Requires: 
+Requires: message_runtime

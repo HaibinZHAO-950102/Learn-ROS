@@ -1,2 +1,2 @@
 beginner_tutorials
--DCATKIN_DEVEL_PREFIX=/home/haibin/Desktop/软件/Learn-ROS/devel -DCMAKE_INSTALL_PREFIX=/home/haibin/Desktop/软件/Learn-ROS/install -G Unix Makefiles
+-DCATKIN_DEVEL_PREFIX=/home/haibin/Desktop/Software/Learn-ROS/devel -DCMAKE_INSTALL_PREFIX=/home/haibin/Desktop/Software/Learn-ROS/install -G Unix Makefiles

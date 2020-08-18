@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/haibin/Desktop/软件/Learn-ROS/src
+CMAKE_SOURCE_DIR = /home/haibin/Desktop/Software/Learn-ROS/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/haibin/Desktop/软件/Learn-ROS/build
+CMAKE_BINARY_DIR = /home/haibin/Desktop/Software/Learn-ROS/build
 
 # Utility rule file for rosgraph_msgs_generate_messages_nodejs.
 
@@ -63,10 +63,10 @@ beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build: 
 .PHONY : beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build
 
 beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/clean:
-	cd /home/haibin/Desktop/软件/Learn-ROS/build/beginner_tutorials && $(CMAKE_COMMAND) -P CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/cmake_clean.cmake
+	cd /home/haibin/Desktop/Software/Learn-ROS/build/beginner_tutorials && $(CMAKE_COMMAND) -P CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/cmake_clean.cmake
 .PHONY : beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/clean
 
 beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/depend:
-	cd /home/haibin/Desktop/软件/Learn-ROS/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/haibin/Desktop/软件/Learn-ROS/src /home/haibin/Desktop/软件/Learn-ROS/src/beginner_tutorials /home/haibin/Desktop/软件/Learn-ROS/build /home/haibin/Desktop/软件/Learn-ROS/build/beginner_tutorials /home/haibin/Desktop/软件/Learn-ROS/build/beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/haibin/Desktop/Software/Learn-ROS/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/haibin/Desktop/Software/Learn-ROS/src /home/haibin/Desktop/Software/Learn-ROS/src/beginner_tutorials /home/haibin/Desktop/Software/Learn-ROS/build /home/haibin/Desktop/Software/Learn-ROS/build/beginner_tutorials /home/haibin/Desktop/Software/Learn-ROS/build/beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/depend
 

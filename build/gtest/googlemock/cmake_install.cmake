@@ -2,7 +2,7 @@
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/haibin/Desktop/软件/Learn-ROS/install")
+  set(CMAKE_INSTALL_PREFIX "/home/haibin/Desktop/Software/Learn-ROS/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/haibin/Desktop/软件/Learn-ROS/build/gtest/googlemock/gtest/cmake_install.cmake")
+  include("/home/haibin/Desktop/Software/Learn-ROS/build/gtest/googlemock/gtest/cmake_install.cmake")
 
 endif()
 

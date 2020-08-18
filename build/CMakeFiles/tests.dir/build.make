@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/haibin/Desktop/软件/Learn-ROS/src
+CMAKE_SOURCE_DIR = /home/haibin/Desktop/Software/Learn-ROS/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/haibin/Desktop/软件/Learn-ROS/build
+CMAKE_BINARY_DIR = /home/haibin/Desktop/Software/Learn-ROS/build
 
 # Utility rule file for tests.
 
@@ -67,6 +67,6 @@ CMakeFiles/tests.dir/clean:
 .PHONY : CMakeFiles/tests.dir/clean
 
 CMakeFiles/tests.dir/depend:
-	cd /home/haibin/Desktop/软件/Learn-ROS/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/haibin/Desktop/软件/Learn-ROS/src /home/haibin/Desktop/软件/Learn-ROS/src /home/haibin/Desktop/软件/Learn-ROS/build /home/haibin/Desktop/软件/Learn-ROS/build /home/haibin/Desktop/软件/Learn-ROS/build/CMakeFiles/tests.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/haibin/Desktop/Software/Learn-ROS/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/haibin/Desktop/Software/Learn-ROS/src /home/haibin/Desktop/Software/Learn-ROS/src /home/haibin/Desktop/Software/Learn-ROS/build /home/haibin/Desktop/Software/Learn-ROS/build /home/haibin/Desktop/Software/Learn-ROS/build/CMakeFiles/tests.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/tests.dir/depend
 
